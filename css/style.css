@@ -13,7 +13,7 @@ body{
     grid-template-columns: auto auto;
     justify-content: space-around;
     padding: 5% 0 5% 10%;
-    background-image: url("/images/header-bg.png");
+    background-image: url("images/header-bg.png");
     background-repeat: no-repeat;
 
 }
@@ -47,7 +47,7 @@ a{
     padding-top: 150px;
 }
 .second-hero{
-    background-image: url("/images/biography-bg.png");
+    background-image: url("images/biography-bg.png");
     background-repeat: no-repeat;
 }
 .work{
@@ -64,7 +64,7 @@ a{
     padding: 10% 20%;
 }
 .latest-work{
-    background-image: url("/images/latest-work-bg.png");
+    background-image: url("images/latest-work-bg.png");
     background-repeat: no-repeat;
 }
 
